@@ -1,0 +1,15 @@
+{
+  "name": "practical-11-backend",
+  "version": "1.0.0",
+  "description": "Practical 11: Containerized Backend Service with Express & Mongoose - Student: Daksh Karangiya (24CS038)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.8.4"
+  }
+}
